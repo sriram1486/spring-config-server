@@ -1,0 +1,14 @@
+
+build:
+  version: "2.0"
+  
+products:
+  message: " Welcomw to products related local APIS's "
+  contactDeatils:
+   name: "srimulareddy"
+   email: "sriramulareddy@gmail..com"
+   phone: "123456789"
+  onCallSupport: 
+   - (333) 333-1234
+   - (111) 111-1234
+   

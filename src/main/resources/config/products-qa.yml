@@ -1,0 +1,14 @@
+
+build:
+  version: "1.0"
+  
+products:
+  message: " Welcome to products related local APIS's "
+  contactDeatils:
+   name: "srimulareddy"
+   email: "sriramulareddy@gmail..com"
+   phone: "123456789"
+  onCallSupport: 
+   - (555) 555-1234
+   - (444) 444-1234
+   - (222) 222-1234
